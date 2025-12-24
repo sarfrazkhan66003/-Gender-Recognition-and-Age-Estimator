@@ -4,9 +4,10 @@
 > it is about understanding humans better.”
 
 This project is a **Deep Learning–based Gender Recognition System** that detects  
-**gender (Man / Woman)** from:
-- 🖼️ Static images
-- 🎥 Live webcam feed
+
+- **gender (Man / Woman)** from:
+  - 🖼️ Static images
+  - 🎥 Live webcam feed
 
 It combines **Computer Vision** and **Convolutional Neural Networks (CNNs)**  
 to deliver accurate and real-time predictions.
